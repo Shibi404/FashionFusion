@@ -1,0 +1,1255 @@
+[
+    {
+        "id": 1,
+        "name": "Solids: Bone White",
+        "class": "men-tshirt",
+        "price": 449,
+        "image": "Product Images/MT1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Garfield: Procrastination Club",
+        "class": "men-tshirt",
+        "price": 699,
+        "image": "Product Images/MT2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Batman: 3D Logo",
+        "class": "men-tshirt",
+        "price": 499,
+        "image": "Product Images/MT3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Batman: The Dark Knight",
+        "class": "men-tshirt",
+        "price": 699,
+        "image": "Product Images/MT4.webp"
+    },
+    {
+        "id": 5,
+        "name": "Classic Sustainable Tee: Beige",
+        "class": "men-tshirt",
+        "price": 449,
+        "image": "Product Images/MT5.webp"
+    },
+    {
+        "id": 6,
+        "name": "FCB: Mes Que Un Club",
+        "class": "men-tshirt",
+        "price": 699,
+        "image": "Product Images/MT6.webp"
+    },
+    {
+        "id": 7,
+        "name": "Johnny Bravo: King Of Waves",
+        "class": "men-tshirt",
+        "price": 599,
+        "image": "Product Images/MT7.webp"
+    },
+    {
+        "id": 8,
+        "name": "Iron Man: Logo (Colourblock)",
+        "class": "men-tshirt",
+        "price": 1199,
+        "image": "Product Images/MT8.webp"
+    },
+    {
+        "id": 9,
+        "name": "Lavender Dream",
+        "class": "acc-caps",
+        "price": 599,
+        "image": "Product Images/C1.webp"
+    },
+    {
+        "id": 10,
+        "name": "Superman: Man of Steel",
+        "class": "acc-caps",
+        "price": 699,
+        "image": "Product Images/C2.webp"
+    },
+    {
+        "id": 10,
+        "name": "Rick And Morty: Adventure",
+        "class": "acc-caps",
+        "price": 999,
+        "image": "Product Images/C3.webp"
+    },
+    {
+        "id": 11,
+        "name": "Manchester City: Crest",
+        "class": "acc-caps",
+        "price": 699,
+        "image": "Product Images/C4.webp"
+    },
+    {
+        "id": 12,
+        "name": "Marvel: Superhero Squad",
+        "class": "backpacks",
+        "price": 1499,
+        "image": "Product Images/B1.webp"
+    },
+    {
+        "id": 13,
+        "name": "Marvel: Mightiest Heroes",
+        "class": "backpacks",
+        "price": 2499,
+        "image": "Product Images/B2.webp"
+    },
+    {
+        "id": 14,
+        "name": "Harry Potter: Snitched",
+        "class": "backpacks",
+        "price": 1199,
+        "image": "Product Images/B3.webp"
+    },
+    {
+        "id": 15,
+        "name": "F.R.I.E.N.D.S: Logo",
+        "class": "backpacks",
+        "price": 1599,
+        "image": "Product Images/B4.webp"
+    },
+    {
+        "id": 16,
+        "name": "Alchemy",
+        "class": "perfumes",
+        "price": 999,
+        "image": "Product Images/P1.webp"
+    },
+    {
+        "id": 17,
+        "name": "Wonder Woman: Themyscira",
+        "class": "perfumes",
+        "price": 899,
+        "image": "Product Images/P2.webp"
+    },
+    {
+        "id": 18,
+        "name": "Elixira",
+        "class": "perfumes",
+        "price": 999,
+        "image": "Product Images/P3.webp"
+    },
+    {
+        "id": 19,
+        "name": "Galactic (For Men)",
+        "class": "perfumes",
+        "price": 999,
+        "image": "Product Images/P4.webp"
+    },
+    {
+        "id": 20,
+        "name": "Superman: Logo",
+        "class": "umbrellas",
+        "price": 949,
+        "image": "Product Images/U1.webp"
+    },
+    {
+        "id": 21,
+        "name": "Spider-Man: Spidey Print",
+        "class": "umbrellas",
+        "price": 999,
+        "image": "Product Images/U2.webp"
+    },
+    {
+        "id": 22,
+        "name": "Black Panther: Logo",
+        "class": "umbrellas",
+        "price": 999,
+        "image": "Product Images/U3.webp"
+    },
+    {
+        "id": 23,
+        "name": "Batman: The Dark Knight",
+        "class": "shoes",
+        "price": 2999,
+        "image": "Product Images/S1.webp"
+    },
+    {
+        "id": 24,
+        "name": "Spider-Man: Miles Morales",
+        "class": "shoes",
+        "price": 2799,
+        "image": "Product Images/S2.webp"
+    },
+    {
+        "id": 25,
+        "name": "Captain America: Super Soldier",
+        "class": "shoes",
+        "price": 2499,
+        "image": "Product Images/S3.webp"
+    },
+    {
+        "id": 26,
+        "name": "Star Wars: Stormtrooper",
+        "class": "shoes",
+        "price": 2499,
+        "image": "Product Images/S4.webp"
+    },
+    {
+        "id": 27,
+        "name": "Urban Blaze: Mafia",
+        "class": "shoes",
+        "price": 2499,
+        "image": "Product Images/S5.webp"
+    },
+    {
+        "id": 28,
+        "name": "Rick & Morty: Portal Runners",
+        "class": "shoes",
+        "price": 2699,
+        "image": "Product Images/S6.webp"
+    },
+    {
+        "id": 29,
+        "name": "Spider-Man: Split Sneakers",
+        "class": "shoes",
+        "price": 2499,
+        "image": "Product Images/S7.webp"
+    },
+    {
+        "id": 30,
+        "name": "Star Wars: Darth Vader",
+        "class": "shoes",
+        "price": 2399,
+        "image": "Product Images/S8.webp"
+    },
+    {
+        "id": 30,
+        "name": "Solids: White, Yellow and Purple (Solar Activated)",
+        "class": "shoes",
+        "price": 2199,
+        "image": "Product Images/S9.webp"
+    },
+    {
+        "id": 31,
+        "name": "Minions: Banana Madness",
+        "class": "shoes",
+        "price": 699,
+        "image": "Product Images/S10.webp"
+    },
+    {
+        "id": 32,
+        "name": "Urban Blaze: Lavender",
+        "class": "shoes",
+        "price": 2499,
+        "image": "Product Images/S11.webp"
+    },
+    {
+        "id": 33,
+        "name": "Wonder Woman: Indestructible Power",
+        "class": "shoes",
+        "price": 699,
+        "image": "Product Images/S12.webp"
+    },
+    {
+        "id": 34,
+        "name": "The Flintstones: Yabba Dabba Doo",
+        "class": "men-ostshirts",
+        "price": 999,
+        "image": "Product Images/MO1.webp"
+    },
+    {
+        "id": 35,
+        "name": "Melting Away",
+        "class": "men-ostshirts",
+        "price": 999,
+        "image": "Product Images/MO2.webp"
+    },
+    {
+        "id": 36,
+        "name": "Trippin' Good",
+        "class": "men-ostshirts",
+        "price": 999,
+        "image": "Product Images/MO3.webp"
+    },
+    {
+        "id": 37,
+        "name": "Donald Duck: Quackster",
+        "class": "men-ostshirts",
+        "price": 999,
+        "image": "Product Images/MO4.webp"
+    },
+    {
+        "id": 38,
+        "name": "Mickey Mouse: Smarty Pants",
+        "class": "men-ostshirts",
+        "price": 899,
+        "image": "Product Images/MO5.webp"
+    },
+    {
+        "id": 39,
+        "name": "Tom & Jerry: Sticky Situation",
+        "class": "men-ostshirts",
+        "price": 999,
+        "image": "Product Images/MO6.webp"
+    },
+    {
+        "id": 40,
+        "name": "Good Vibes",
+        "class": "men-ostshirts",
+        "price": 899,
+        "image": "Product Images/MO7.webp"
+    },
+    {
+        "id": 41,
+        "name": "Rick And Morty: Portal To Happiness",
+        "class": "men-ostshirts",
+        "price": 999,
+        "image": "Product Images/MO8.webp"
+    },
+    {
+        "id": 42,
+        "name": "Stripes Green",
+        "class": "men-shirts",
+        "price": 999,
+        "image": "Product Images/MS1.webp"
+    },
+    {
+        "id": 43,
+        "name": "Solids: Ocean Blue",
+        "class": "men-shirts",
+        "price": 1499,
+        "image": "Product Images/MS2.webp"
+    },
+    {
+        "id": 44,
+        "name": "Hawaiian",
+        "class": "men-shirts",
+        "price": 1499,
+        "image": "Product Images/MS3.webp"
+    },
+    {
+        "id": 45,
+        "name": "Batman: 1989",
+        "class": "men-shirts",
+        "price": 1399,
+        "image": "Product Images/MS4.webp"
+    },
+    {
+        "id": 46,
+        "name": "Solids: Midnight Black",
+        "class": "men-shirts",
+        "price": 1499,
+        "image": "Product Images/MS5.webp"
+    },
+    {
+        "id": 47,
+        "name": "Solids: Off-White",
+        "class": "men-shirts",
+        "price": 1499,
+        "image": "Product Images/MS6.webp"
+    },
+    {
+        "id": 48,
+        "name": "Plaid: Blue And White",
+        "class": "men-shirts",
+        "price": 1199,
+        "image": "Product Images/MS7.webp"
+    },
+    {
+        "id": 49,
+        "name": "Peanuts: Big 50",
+        "class": "men-shirts",
+        "price": 1699,
+        "image": "Product Images/MS8.webp"
+    },
+    {
+        "id": 50,
+        "name": "Brunet",
+        "class": "men-jackets",
+        "price": 2499,
+        "image": "Product Images/MJ1.webp"
+    },
+    {
+        "id": 51,
+        "name": "Solids: Ebony",
+        "class": "men-jackets",
+        "price": 2499,
+        "image": "Product Images/MJ2.webp"
+    },
+    {
+        "id": 52,
+        "name": "Red Ink",
+        "class": "men-jackets",
+        "price": 1999,
+        "image": "Product Images/MJ3.webp"
+    },
+    {
+        "id": 53,
+        "name": "Punisher: Since 1975",
+        "class": "men-jackets",
+        "price": 2599,
+        "image": "Product Images/MJ4.webp"
+    },
+    {
+        "id": 54,
+        "name": "Solids: Black, Cream, Khaki (Colourblock)",
+        "class": "men-jackets",
+        "price": 1699,
+        "image": "Product Images/MJ5.webp"
+    },
+    {
+        "id": 55,
+        "name": "F.R.I.E.N.D.S: Best Of Times",
+        "class": "men-jackets",
+        "price": 2199,
+        "image": "Product Images/MJ6.webp"
+    },
+    {
+        "id": 56,
+        "name": "Deadpool: Merc With A Mouth",
+        "class": "men-jackets",
+        "price": 2199,
+        "image": "Product Images/MJ7.webp"
+    },
+    {
+        "id": 57,
+        "name": "Avengers Quantum Jacket: 2023 Edition",
+        "class": "men-jackets",
+        "price": 1999,
+        "image": "Product Images/MJ8.webp"
+    },
+    {
+        "id": 58,
+        "name": "Pink Diamonds",
+        "class": "men-hoodie",
+        "price": 1899,
+        "image": "Product Images/MH1.webp"
+    },
+    {
+        "id": 59,
+        "name": "Zip-Up: Navy",
+        "class": "men-hoodie",
+        "price": 999,
+        "image": "Product Images/MH2.webp"
+    },
+    {
+        "id": 60,
+        "name": "Jasper Green",
+        "class": "men-hoodie",
+        "price": 1699,
+        "image": "Product Images/MH3.webp"
+    },
+    {
+        "id": 61,
+        "name": "Punisher: Vigilante",
+        "class": "men-hoodie",
+        "price": 999,
+        "image": "Product Images/MH4.webp"
+    },
+    {
+        "id": 62,
+        "name": "Just Black",
+        "class": "men-hoodie",
+        "price": 999,
+        "image": "Product Images/MH5.webp"
+    },
+    {
+        "id": 63,
+        "name": "Iron Man: Armoured Avenger",
+        "class": "men-hoodie",
+        "price": 1299,
+        "image": "Product Images/MH6.webp"
+    },
+    {
+        "id": 64,
+        "name": "Solids: Jadish",
+        "class": "men-hoodie",
+        "price": 1899,
+        "image": "Product Images/MH7.webp"
+    },
+    {
+        "id": 65,
+        "name": "Solids: Berry",
+        "class": "men-hoodie",
+        "price": 1299,
+        "image": "Product Images/MH8.webp"
+    },
+    {
+        "id": 66,
+        "name": "Power Stretch Pants: Steel Blue",
+        "class": "men-pants",
+        "price": 1499,
+        "image": "Product Images/MP1.webp"
+    },
+    {
+        "id": 67,
+        "name": "Solids: Light Grey",
+        "class": "men-pants",
+        "price": 1699,
+        "image": "Product Images/MP2.webp"
+    },
+    {
+        "id": 68,
+        "name": "Power Stretch Pants: Beige",
+        "class": "men-pants",
+        "price": 1899,
+        "image": "Product Images/MP3.webp"
+    },
+    {
+        "id": 69,
+        "name": "Solids: Light Olive",
+        "class": "men-pants",
+        "price": 1899,
+        "image": "Product Images/MP4.webp"
+    },
+    {
+        "id": 70,
+        "name": "Corduroy Pants: Charcoal Grey",
+        "class": "men-pants",
+        "price": 2299,
+        "image": "Product Images/MP5.webp"
+    },
+    {
+        "id": 71,
+        "name": "Square Grey",
+        "class": "men-pants",
+        "price": 1799,
+        "image": "Product Images/MP6.webp"
+    },
+    {
+        "id": 72,
+        "name": "Solids: Beige",
+        "class": "men-pants",
+        "price": 1999,
+        "image": "Product Images/MP7.webp"
+    },
+    {
+        "id": 73,
+        "name": "Power Stretch Pants: Mint",
+        "class": "men-pants",
+        "price": 1499,
+        "image": "Product Images/MP8.webp"
+    },
+    {
+        "id": 74,
+        "name": "Sandstone",
+        "class": "men-cargos",
+        "price": 1999,
+        "image": "Product Images/MC1.webp"
+    },
+    {
+        "id": 75,
+        "name": "Solids: Khakhi Green",
+        "class": "men-cargos",
+        "price": 1799,
+        "image": "Product Images/MC2.webp"
+    },
+    {
+        "id": 76,
+        "name": "Solids: Stone Grey",
+        "class": "men-cargos",
+        "price": 1599,
+        "image": "Product Images/MC3.webp"
+    },
+    {
+        "id": 77,
+        "name": "Parachute Pants: Dusky Blue",
+        "class": "men-cargos",
+        "price": 1599,
+        "image": "Product Images/MC4.webp"
+    },
+    {
+        "id": 78,
+        "name": "Solids: Light Grey",
+        "class": "men-cargos",
+        "price": 1699,
+        "image": "Product Images/MC5.webp"
+    },
+    {
+        "id": 79,
+        "name": "Parachute Pants: Tan Brown",
+        "class": "men-cargos",
+        "price": 1799,
+        "image": "Product Images/MC6.webp"
+    },
+    {
+        "id": 80,
+        "name": "Solids: Light Olive (Straight Fit)",
+        "class": "men-cargos",
+        "price": 2199,
+        "image": "Product Images/MC7.webp"
+    },
+    {
+        "id": 81,
+        "name": "Star Wars: Empire Strikes",
+        "class": "men-cargos",
+        "price": 1199,
+        "image": "Product Images/MC8.webp"
+    },
+    {
+        "id": 82,
+        "name": "Solids: Stone Grey",
+        "class": "men-jeans",
+        "price": 1899,
+        "image": "Product Images/MCJ1.webp"
+    },
+    {
+        "id": 83,
+        "name": "Arctic Patch",
+        "class": "men-jeans",
+        "price": 1699,
+        "image": "Product Images/MCJ2.webp"
+    },
+    {
+        "id": 84,
+        "name": "Solids: Light Olive (Straight Fit)",
+        "class": "men-jeans",
+        "price": 2199,
+        "image": "Product Images/MCJ3.webp"
+    },
+    {
+        "id": 85,
+        "name": "Solids: Black (Straight Fit)",
+        "class": "men-jeans",
+        "price": 1899,
+        "image": "Product Images/MCJ4.webp"
+    },
+    {
+        "id": 86,
+        "name": "Comfrey (Utility)",
+        "class": "men-jeans",
+        "price": 2599,
+        "image": "Product Images/MCJ5.webp"
+    },
+    {
+        "id": 87,
+        "name": "Dark Sapphire",
+        "class": "men-jeans",
+        "price": 1699,
+        "image": "Product Images/MCJ6.webp"
+    },
+    {
+        "id": 88,
+        "name": "Nutmeg (Acid wash)",
+        "class": "men-jeans",
+        "price": 1699,
+        "image": "Product Images/MCJ7.webp"
+    },
+    {
+        "id": 89,
+        "name": "Solids: Brady Blue",
+        "class": "men-jeans",
+        "price": 2199,
+        "image": "Product Images/MCJ8.webp"
+    },
+    {
+        "id": 90,
+        "name": "Solids: Hot Pink",
+        "class": "women-shirts",
+        "price": 1299,
+        "image": "Product Images/WS1.webp"
+    },
+    {
+        "id": 91,
+        "name": "Peanuts: Comic Print",
+        "class": "women-shirts",
+        "price": 1299,
+        "image": "Product Images/WS2.webp"
+    },
+    {
+        "id": 92,
+        "name": "Looney Tunes: Indie Vibes",
+        "class": "women-shirts",
+        "price": 1699,
+        "image": "Product Images/WS3.webp"
+    },
+    {
+        "id": 93,
+        "name": "Solids: Hazel Gold",
+        "class": "women-shirts",
+        "price": 1299,
+        "image": "Product Images/WS4.webp"
+    },
+    {
+        "id": 94,
+        "name": "Lilo & Stitch: Fluffy",
+        "class": "women-shirts",
+        "price": 1299,
+        "image": "Product Images/WS5.webp"
+    },
+    {
+        "id": 95,
+        "name": "Floral Vibe",
+        "class": "women-shirts",
+        "price": 1499,
+        "image": "Product Images/WS6.webp"
+    },
+    {
+        "id": 96,
+        "name": "Mickey Mouse: Mickeyverse",
+        "class": "women-shirts",
+        "price": 1299,
+        "image": "Product Images/WS7.webp"
+    },
+    {
+        "id": 97,
+        "name": "Satin Shirt: Brown",
+        "class": "women-shirts",
+        "price": 1299,
+        "image": "Product Images/WS8.webp"
+    },
+    {
+        "id": 98,
+        "name": "Mesh Top : Hello Kitty",
+        "class": "women-tops",
+        "price": 899,
+        "image": "Product Images/WT1.webp"
+    },
+    {
+        "id": 99,
+        "name": "Peanuts: Groove",
+        "class": "women-tops",
+        "price": 699,
+        "image": "Product Images/WT2.webp"
+    },
+    {
+        "id": 100,
+        "name": "Disney: Slay",
+        "class": "women-tops",
+        "price": 349,
+        "image": "Product Images/WT3.webp"
+    },
+    {
+        "id": 101,
+        "name": "Mean Girls: A Little Dramatic",
+        "class": "women-tops",
+        "price": 699,
+        "image": "Product Images/WT4.webp"
+    },
+    {
+        "id": 102,
+        "name": "Lilo & Stitch: Like No Other",
+        "class": "women-tops",
+        "price": 749,
+        "image": "Product Images/WT5.webp"
+    },
+    {
+        "id": 103,
+        "name": "Sunset Hues",
+        "class": "women-tops",
+        "price": 399,
+        "image": "Product Images/WT6.webp"
+    },
+    {
+        "id": 104,
+        "name": "Mean Girls: Whatever",
+        "class": "women-tops",
+        "price": 599,
+        "image": "Product Images/WT7.webp"
+    },
+    {
+        "id": 105,
+        "name": "Mesh Top: Mean Girls",
+        "class": "women-tops",
+        "price": 799,
+        "image": "Product Images/WT8.webp"
+    },
+    {
+        "id": 106,
+        "name": "Wandering Soul",
+        "class": "women-dresses",
+        "price": 2199,
+        "image": "Product Images/WD1.webp"
+    },
+    {
+        "id": 107,
+        "name": "FRIENDS: The One With The Doodle",
+        "class": "women-dresses",
+        "price": 1699,
+        "image": "Product Images/WD2.webp"
+    },
+    {
+        "id": 108,
+        "name": "Peanuts: Athletic Department",
+        "class": "women-dresses",
+        "price": 1299,
+        "image": "Product Images/WD3.webp"
+    },
+    {
+        "id": 109,
+        "name": "Looney Tunes: Nervous Bugs",
+        "class": "women-dresses",
+        "price": 1699,
+        "image": "Product Images/WD4.webp"
+    },
+    {
+        "id": 110,
+        "name": "Mickey Mouse: Expressions",
+        "class": "women-dresses",
+        "price": 1599,
+        "image": "Product Images/WD5.webp"
+    },
+    {
+        "id": 111,
+        "name": "Rose Bloom",
+        "class": "women-dresses",
+        "price": 1799,
+        "image": "Product Images/WD6.webp"
+    },
+    {
+        "id": 112,
+        "name": "Tropical Birds Pattern",
+        "class": "women-dresses",
+        "price": 1499,
+        "image": "Product Images/WD7.webp"
+    },
+    {
+        "id": 113,
+        "name": "Spring Fern",
+        "class": "women-dresses",
+        "price": 1699,
+        "image": "Product Images/WD8.webp"
+    },
+    {
+        "id": 114,
+        "name": "Coco",
+        "class": "women-allbottoms",
+        "price": 1999,
+        "image": "Product Images/WB1.webp"
+    },
+    {
+        "id": 115,
+        "name": "Solids: White (Wide Leg Fit)",
+        "class": "women-allbottoms",
+        "price": 2199,
+        "image": "Product Images/WB2.webp"
+    },
+    {
+        "id": 116,
+        "name": "Solids: Distressed Blue (Straight Fit)",
+        "class": "women-allbottoms",
+        "price": 1699,
+        "image": "Product Images/WB3.webp"
+    },
+    {
+        "id": 117,
+        "name": "Denims: Linear Texture (Straight Fit)",
+        "class": "women-allbottoms",
+        "price": 1899,
+        "image": "Product Images/WB4.webp"
+    },
+    {
+        "id": 118,
+        "name": "Solids: Misty Green (Straight Fit)",
+        "class": "women-allbottoms",
+        "price": 1799,
+        "image": "Product Images/WB5.webp"
+    },
+    {
+        "id": 119,
+        "name": "Parachute Pants: Ink Black",
+        "class": "women-allbottoms",
+        "price": 1499,
+        "image": "Product Images/WB6.webp"
+    },
+    {
+        "id": 120,
+        "name": "Parachute Pants: Ink Black",
+        "class": "women-allbottoms",
+        "price": 1999,
+        "image": "Product Images/WB7.webp"
+    },
+    {
+        "id": 121,
+        "name": "Copper",
+        "class": "women-allbottoms",
+        "price": 1999,
+        "image": "Product Images/WB8.webp"
+    },
+    {
+        "id": 122,
+        "name": "Mickey Mouse: Happy",
+        "class": "women-cargos",
+        "price": 1199,
+        "image": "Product Images/WC1.webp"
+    },
+    {
+        "id": 123,
+        "name": "Veri Peri Set",
+        "class": "women-cargos",
+        "price": 1946,
+        "image": "Product Images/WC2.webp"
+    },
+    {
+        "id": 124,
+        "name": "Drama Queen",
+        "class": "women-cargos",
+        "price": 1899,
+        "image": "Product Images/WC3.webp"
+    },
+    {
+        "id": 125,
+        "name": "Walk On The Pink Side",
+        "class": "women-cargos",
+        "price": 1499,
+        "image": "Product Images/WC4.webp"
+    },
+    {
+        "id": 126,
+        "name": "Solids: Rosewood (Utility)",
+        "class": "women-cargos",
+        "price": 1899,
+        "image": "Product Images/WC5.webp"
+    },
+    {
+        "id": 127,
+        "name": "Parachute Pants: Ink Black",
+        "class": "women-cargos",
+        "price": 1499,
+        "image": "Product Images/WC6.webp"
+    },
+    {
+        "id": 128,
+        "name": "Sangria Oversized Jogger",
+        "class": "women-cargos",
+        "price": 1299,
+        "image": "Product Images/WC7.webp"
+    },
+    {
+        "id": 129,
+        "name": "Sapphire Oversized Jogger",
+        "class": "women-cargos",
+        "price": 1299,
+        "image": "Product Images/WC8.webp"
+    },
+    {
+        "id": 130,
+        "name": "Denim: Mimosa",
+        "class": "women-jeans",
+        "price": 1499,
+        "image": "Product Images/WJ1.webp"
+    },
+    {
+        "id": 131,
+        "name": "Parachute Jeans: Ice Blue",
+        "class": "women-jeans",
+        "price": 1999,
+        "image": "Product Images/WJ2.webp"
+    },
+    {
+        "id": 132,
+        "name": "Coco",
+        "class": "women-jeans",
+        "price": 1999,
+        "image": "Product Images/WJ3.webp"
+    },
+    {
+        "id": 133,
+        "name": "Drama Queen",
+        "class": "women-jeans",
+        "price": 1899,
+        "image": "Product Images/WJ4.webp"
+    },
+    {
+        "id": 134,
+        "name": "Stranger Things: Hellfire Club",
+        "class": "women-jeans",
+        "price": 2199,
+        "image": "Product Images/WJ5.webp"
+    },
+    {
+        "id": 135,
+        "name": "Solids: Sky Blue (Wide Leg Fit)",
+        "class": "women-jeans",
+        "price": 1899,
+        "image": "Product Images/WJ6.webp"
+    },
+    {
+        "id": 136,
+        "name": "Denims: Linear Texture (Straight Fit)",
+        "class": "women-jeans",
+        "price": 1899,
+        "image": "Product Images/WJ7.webp"
+    },
+    {
+        "id": 137,
+        "name": "Solids: Frosty Blue",
+        "class": "women-jeans",
+        "price": 1599,
+        "image": "Product Images/WJ8.webp"
+    },
+    {
+        "id": 138,
+        "name": "Mandala Set",
+        "class": "women-coordsets",
+        "price": 2373,
+        "image": "Product Images/WCO1.webp"
+    },
+    {
+        "id": 139,
+        "name": "Leafy Charm Set",
+        "class": "women-coordsets",
+        "price": 2658,
+        "image": "Product Images/WCO2.webp"
+    },
+    {
+        "id": 140,
+        "name": "Solids: Hot Pink Set",
+        "class": "women-coordsets",
+        "price": 2468,
+        "image": "Product Images/WCO3.webp"
+    },
+    {
+        "id": 141,
+        "name": "Lavender Dreams Set",
+        "class": "women-coordsets",
+        "price": 1043,
+        "image": "Product Images/WCO4.webp"
+    },
+    {
+        "id": 142,
+        "name": "Wanderlust Set",
+        "class": "women-coordsets",
+        "price": 2943,
+        "image": "Product Images/WCO5.webp"
+    },
+    {
+        "id": 143,
+        "name": "Sugar Coral Set",
+        "class": "women-coordsets",
+        "price": 1898,
+        "image": "Product Images/WCO6.webp"
+    },
+    {
+        "id": 144,
+        "name": "Floral Fusion Set",
+        "class": "women-coordsets",
+        "price": 2658,
+        "image": "Product Images/WCO7.webp"
+    },
+    {
+        "id": 145,
+        "name": "Lilac Blossom Set",
+        "class": "women-coordsets",
+        "price": 1803,
+        "image": "Product Images/WCO8.webp"
+    },
+    {
+        "id": 146,
+        "name": "Tom and Jerry: Chill Out",
+        "class": "boys-tshirts",
+        "price": 499,
+        "image": "Product Images/BT1.webp"
+    },
+    {
+        "id": 147,
+        "name": "Batman: Gotham's Saviour",
+        "class": "boys-tshirts",
+        "price": 499,
+        "image": "Product Images/BT2.webp"
+    },
+    {
+        "id": 148,
+        "name": "Solids: Lime Green",
+        "class": "boys-tshirts",
+        "price": 499,
+        "image": "Product Images/BT3.webp"
+    },
+    {
+        "id": 149,
+        "name": "Black Panther: Panther Power",
+        "class": "boys-tshirts",
+        "price": 699,
+        "image": "Product Images/BT4.webp"
+    },
+    {
+        "id": 150,
+        "name": "Mickey Mouse: Happy",
+        "class": "boys-tshirts",
+        "price": 499,
+        "image": "Product Images/BT5.webp"
+    },
+    {
+        "id": 151,
+        "name": "Marvel: Comic Strip",
+        "class": "boys-tshirts",
+        "price": 499,
+        "image": "Product Images/BT6.webp"
+    },
+    {
+        "id": 152,
+        "name": "Peppa Pig: Squad",
+        "class": "boys-tshirts",
+        "price": 599,
+        "image": "Product Images/BT7.webp"
+    },
+    {
+        "id": 153,
+        "name": "Batman: Logo",
+        "class": "boys-tshirts",
+        "price": 599,
+        "image": "Product Images/BT8.webp"
+    },
+    {
+        "id": 154,
+        "name": "Winnie The Pooh: Vibes",
+        "class": "girls-dresses",
+        "price": 399,
+        "image": "Product Images/GD1.webp"
+    },
+    {
+        "id": 155,
+        "name": "Teddy",
+        "class": "girls-dresses",
+        "price": 499,
+        "image": "Product Images/GD2.webp"
+    },
+    {
+        "id": 156,
+        "name": "Parakeet",
+        "class": "girls-dresses",
+        "price": 699,
+        "image": "Product Images/GD3.webp"
+    },
+    {
+        "id": 157,
+        "name": "Disney: Princess Aurora",
+        "class": "girls-dresses",
+        "price": 549,
+        "image": "Product Images/GD4.webp"
+    },
+    {
+        "id": 158,
+        "name": "Peanuts: Snoopy Floral Pattern",
+        "class": "girls-dresses",
+        "price": 599,
+        "image": "Product Images/GD5.webp"
+    },
+    {
+        "id": 159,
+        "name": "Aurora",
+        "class": "girls-dresses",
+        "price": 699,
+        "image": "Product Images/GD6.webp"
+    },
+    {
+        "id": 160,
+        "name": "Disney: Rapunzel",
+        "class": "girls-dresses",
+        "price": 599,
+        "image": "Product Images/GD7.webp"
+    },
+    {
+        "id": 161,
+        "name": "Dexter: Trouble Maker",
+        "class": "girls-dresses",
+        "price": 599,
+        "image": "Product Images/GD8.webp"
+    },
+    {
+        "id": 162,
+        "name": "PAW Patrol: Chase and Rubble",
+        "class": "boys-joggers",
+        "price": 749,
+        "image": "Product Images/BJ1.webp"
+    },
+    {
+        "id": 163,
+        "name": "Spider-Man: Spidey Cartoon",
+        "class": "boys-joggers",
+        "price": 799,
+        "image": "Product Images/BJ2.webp"
+    },
+    {
+        "id": 164,
+        "name": "Cars: Lightning Mcqueen Racing",
+        "class": "boys-joggers",
+        "price": 799,
+        "image": "Product Images/BJ3.webp"
+    },
+    {
+        "id": 165,
+        "name": "Cascade",
+        "class": "boys-joggers",
+        "price": 699,
+        "image": "Product Images/BJ4.webp"
+    },
+    {
+        "id": 166,
+        "name": "Solids: Black and Green",
+        "class": "boys-joggers",
+        "price": 799,
+        "image": "Product Images/BJ5.webp"
+    },
+    {
+        "id": 167,
+        "name": "Space Fun",
+        "class": "boys-joggers",
+        "price": 799,
+        "image": "Product Images/BJ6.webp"
+    },
+    {
+        "id": 168,
+        "name": "Batman: The Dark Knight",
+        "class": "boys-joggers",
+        "price": 799,
+        "image": "Product Images/BJ7.webp"
+    },
+    {
+        "id": 169,
+        "name": "PAW Patrol: Pawsome Squad",
+        "class": "boys-joggers",
+        "price": 699,
+        "image": "Product Images/BJ8.webp"
+    },
+    {
+        "id": 170,
+        "name": "Looney Tunes: Stripes",
+        "class": "girls-joggers",
+        "price": 499,
+        "image": "Product Images/GJ1.webp"
+    },
+    {
+        "id": 171,
+        "name": "Disney: Cutest Minnie Mouse",
+        "class": "girls-joggers",
+        "price": 799,
+        "image": "Product Images/GJ2.webp"
+    },
+    {
+        "id": 172,
+        "name": "Pink Panther: Pink Pow",
+        "class": "girls-joggers",
+        "price": 799,
+        "image": "Product Images/GJ3.webp"
+    },
+    {
+        "id": 173,
+        "name": "Pink Flora",
+        "class": "girls-joggers",
+        "price": 499,
+        "image": "Product Images/GJ4.webp"
+    },
+    {
+        "id": 174,
+        "name": "Stay Magical",
+        "class": "girls-joggers",
+        "price": 599,
+        "image": "Product Images/GJ5.webp"
+    },
+    {
+        "id": 174,
+        "name": "Solids: Green Colourblock",
+        "class": "girls-joggers",
+        "price": 799,
+        "image": "Product Images/GJ6.webp"
+    },
+    {
+        "id": 175,
+        "name": "Garfield: Scratch",
+        "class": "girls-joggers",
+        "price": 799,
+        "image": "Product Images/GJ7.webp"
+    },
+    {
+        "id": 176,
+        "name": "Peppa Pig: Good Vibes",
+        "class": "girls-joggers",
+        "price": 449,
+        "image": "Product Images/GJ8.webp"
+    }
+]

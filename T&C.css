@@ -1,0 +1,28 @@
+#main-container {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.heading {
+    padding-top: 7px;
+}
+
+.heading-text {
+    font-weight: 400;
+    font-size: 15px;
+    color: red;
+}
+
+.content {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.content-text {
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(49, 49, 49);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

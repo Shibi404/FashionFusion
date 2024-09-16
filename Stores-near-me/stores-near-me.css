@@ -1,0 +1,42 @@
+.main-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.banner-text {
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    font-size: 50px;
+}
+
+.loc-container {
+    padding-top: 80px;
+}
+
+.loc-head {
+    color: red;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.loc-content {
+    background-color: rgb(235, 235, 235);
+    display: flex;
+}
+
+.loc-content img {
+    height: 35rem;
+}
+
+.loc-text {
+    padding: 15% 2%;
+}

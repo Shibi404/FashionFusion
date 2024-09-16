@@ -1,0 +1,30 @@
+#main-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.heading {
+    padding: 20px 175px;
+    background-color: rgb(233, 233, 233);
+}
+
+.heading-text {
+    font-size: 23px;
+    color: rgb(70, 69, 69);
+}
+
+.content {
+    width: 77.5%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.content-text {
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.content-text-bold {
+    font-weight: 700;
+}

@@ -1,0 +1,103 @@
+.main-box {
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 450px;
+    height: 500px;
+    padding-top: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+.button-box {
+    width: 238px;
+    height: 40px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 30px;
+}
+
+.toggle-btn,
+.submit-btn {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    font-family: "Assistant", sans-serif;
+}
+
+.toggle-btn {
+    padding: 8px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    outline: none;
+    position: relative;
+
+
+}
+
+.btn-cont {
+    padding-top: 2px;
+    padding-left: 5px;
+}
+
+#btn {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 128px;
+    height: 100%;
+    background: red;
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.input-group {
+    top: 180px;
+    position: absolute;
+    width: 280px;
+    transition: .5s;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(56, 56, 56);
+    outline: none;
+    background: transparent;
+}
+
+.submit-btn {
+    width: 45%;
+    padding: 15px 0px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: red;
+    border: none;
+    outline: none;
+    color: white;
+}
+
+#login {
+    left: 80px;
+}
+
+#register {
+    left: 550px;
+}
+
+#tc {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}

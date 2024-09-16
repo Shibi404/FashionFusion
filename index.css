@@ -1,0 +1,201 @@
+body {
+    font-family: "Assistant", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+/* CATEGORIES */
+
+.categories-title {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+
+.categories-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
+
+.categories-images-small {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.categories-images-hover img {
+    width: 100%;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+}
+
+.categories-images-hover-small img {
+    width: 100%;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+}
+
+.categories-images-hover img:hover {
+    transform: scale(1.07);
+}
+
+.categories-images-hover-small img:hover {
+    transform: scale(1.07);
+}
+
+.categories-images-hover {
+    overflow: hidden;
+    position: relative;
+    width: 30rem;
+    height: 30.1rem;
+}
+
+.categories-images-hover-small {
+    overflow: hidden;
+    position: relative;
+    width: 22.2rem;
+    height: 22.3rem;
+}
+
+/* Branding */
+
+.branding-text {
+    width: 100%;
+    height: 70px;
+    background-color: red;
+    margin-top: 30px;
+    text-align: center;
+    user-select: none;
+}
+
+.branding-text span {
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    line-height: 65px;
+    text-align: center;
+}
+
+.branding-text-2 {
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.branding-text-2 span {
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    user-select: none;
+}
+
+.branding-text-2 span span {
+    font-weight: 800;
+}
+
+#membership {
+    text-align: center;
+}
+
+#membership img {
+    width: 75%;
+}
+
+/* Footer */
+.footer-container {
+    background-color: rgb(235, 235, 235);
+    margin-top: 20px;
+
+}
+
+.footer-text-container {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+.footer-text-container-sub {
+    padding-top: 40px;
+}
+
+.footer-heading {
+    font-size: 20px;
+    color: red;
+}
+
+.footer-links {
+    padding-top: 10px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: rgb(53, 53, 53);
+}
+
+.footer-links a:hover {
+    color: red;
+}
+
+.footer-app-text {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.footer-app-logo {
+    text-align: center;
+}
+
+.footer-app-logo img {
+    padding-top: 10px;
+    width: 120px;
+    cursor: pointer;
+}
+
+.footer-social-logos .footer-social-text span,
+.footer-app-text span {
+    color: red;
+    font-size: 25px;
+}
+
+.footer-social-logos {
+    padding-top: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.footer-social-text {
+    padding-bottom: 13px;
+    text-align: center;
+}
+
+.logo-brand {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-brand i {
+    cursor: pointer;
+}
+
+#copyright-text {
+    padding-top: 10px;
+}
+
+#copyright-text span {
+    font-size: 17px;
+    color: rgb(48, 48, 48);
+    user-select: none;
+}
